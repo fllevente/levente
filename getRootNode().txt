@@ -1,3 +1,8 @@
 getRootNode()
 getRootNode(options)
 const rootNode = node.getRootNode();
+<div class="parent">
+  <div class="child"></div>
+</div>
+<div class="shadowHost">shadowHost</div>
+<pre id="output">Output: </pre>
