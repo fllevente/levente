@@ -1,0 +1,3 @@
+getRootNode()
+getRootNode(options)
+const rootNode = node.getRootNode();
